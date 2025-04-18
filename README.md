@@ -94,3 +94,4 @@ void loop()
 
 
 ## RESULT
+The project designed and implemented a system for LED control using an Arduino microcontroller and a push button successfully.
