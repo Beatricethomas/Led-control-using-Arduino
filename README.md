@@ -59,6 +59,9 @@ Weighing Machines </br>
 
 ## CIRCUIT DIAGRAM
 
+![image](https://github.com/user-attachments/assets/f57f8012-2683-4443-b682-79f157d45ba4)
+
+
 ## PROGRAM:
 ```
 const int buttonPin = 3;     
