@@ -83,6 +83,11 @@ void loop()
 ```
 
 ## OUTPUT
+![Screenshot 2025-04-18 135408](https://github.com/user-attachments/assets/179bfda0-2433-44c2-b92c-d9858276ab79)
+
+![Screenshot 2025-04-18 135619](https://github.com/user-attachments/assets/e4981fb6-d46b-4dad-b9de-26836fce99b2)
+
+
 
 
 ## RESULT
